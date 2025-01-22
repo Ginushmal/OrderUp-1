@@ -3,6 +3,18 @@ An intuitive platform that revolutionizes restaurant management and enhances the
 
 ---
 
+## 🎥 Demo Video  
+Check out the demo video here:  
+[![Watch the Video](Sample/orderup-samples.jpg)](https://youtu.be/4RyBM9kUTFc)  
+
+---
+
+## 🖼️ Screenshots  
+![Order Up Samples](Sample/orderup-samples.jpg)  
+
+
+---
+
 ## 📖 Problem Definition  
 The current restaurant management landscape faces inefficiencies in order processing, customer service, and overall operations. Restaurants struggle with:  
 - Manual order-taking processes.  
@@ -99,18 +111,6 @@ The app will be promoted through:
    ```
    http://localhost:5173
    ```
-
----
-
-## 🎥 Demo Video  
-Check out the demo video here:  
-[![Watch the Video](Sample/orderup-samples.jpg)](https://youtu.be/4RyBM9kUTFc)  
-
----
-
-## 🖼️ Screenshots  
-![Order Up Samples](Sample/orderup-samples.jpg)  
-
 
 ---
 
