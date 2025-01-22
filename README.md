@@ -60,7 +60,7 @@ Unlike existing apps, **Order Up** is tailored specifically for in-house dining.
 ### Technologies Used  
 - **Frontend**: React  
 - **Backend**: Spring Boot  
-- **Database**: SQL  
+- **Database**: MongoDB  
 
 ### Scalability  
 A modular approach ensures scalability, allowing individual components to scale independently without requiring high-powered servers.
